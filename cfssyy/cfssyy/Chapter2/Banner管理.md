@@ -11,17 +11,17 @@
 
 设置没有添加 Banner 时，此区块的背景颜色和文字颜色,隐藏栏目 Banner设置等。
 
-![图片关键词](https://help.mituo.cn/jz/upload/201902/1550042490426702.png)
+![图片关键词](assets/1550042490426702.png)
 
 ## **2、内容：**
 
 Banner 管理，添加，删除、修改 Banner 。
 
-![图片关键词](https://help.mituo.cn/jz/upload/201902/1550042504159505.png)
+![图片关键词](assets/1550042504159505.png)
 
 **添加 Banner**
 
-![图片关键词](https://help.mituo.cn/jz/upload/201902/1550042516447598.png)
+![图片关键词](assets/1550042516447598.png)
 
 **Banner尺寸：**设置Banner在电脑、手机、平板端显示的高度，需要模板支持，建议自适应高度。
 
@@ -37,7 +37,7 @@ Banner 管理，添加，删除、修改 Banner 。
 
 **图片标题颜色：**Banner上显示的文字颜色。
 
-![图片关键词](https://help.mituo.cn/jz/upload/201902/1550042532802067.png)
+![图片关键词](assets/1550042532802067.png)
 
 **图片描述：**标题下方的简短描述内容。
 
